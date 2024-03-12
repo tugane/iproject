@@ -16,7 +16,7 @@ const ServiceForm = () => {
                         Business Owner Details
                     </h1>
                 </div>
-                <div className={'grid grid-cols-2'} >
+                <div className={'grid grid-cols-1 md:grid-cols-2'} >
                     <div className={'col-span-1 px-3 py-2'}>
                         <label className={labelClass}>
                             Applicant
